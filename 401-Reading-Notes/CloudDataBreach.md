@@ -47,6 +47,7 @@ Following AWS configurations would prevent such attacks:
 18.	AWS – Audit and Logging: Ensure the S3 bucket used to store CloudTrail logs is not publicly accessible
 19.	AWS - Monitoring: Ensure a log metric filter and alarm exist for CloudTrail configuration changes.
 
-
+## Sources cited
+https://www.zscaler.com/resources/white-papers/capital-one-data-breach.pdf
 
 
