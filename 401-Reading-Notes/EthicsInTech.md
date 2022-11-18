@@ -1,0 +1,7 @@
+## The Code I'm Still Ashamed of By: Bill Sourour
+In this article, Bill shares a moment that he will never forget. As a young developer, he built a quiz for a pharmaceutical company specifically targeting young females. The requirements expressed by the client was that this quiz only suggested their drug unless they were already taking the drug or was allergic to it. This doesn’t consider other considerations that might be dangerous. A young girl ended up killing herself due to the drug having side effects of severe depression and suicidal thoughts. This should have been considered before making the quiz. 
+We must be careful what we create and we should speak up if our ethics are being tested. In the past, I would say I would do whatever needed to get the job done. These days I see that ethics is a crucial part in keeping our communities safe.
+
+## The cybersecurity risk of self-driving cars By: Jason Kornwitz, Northeastern University
+This article was writen in 2017 and they believed that ten million self-driving cars will be on the road by 2020. It also shares an idea that I didn't think out fully when it comes to autonomous vehicles. Can they be hacked? Could terrorists commandeer the vehicles as weapons? 
+I didnt think about this possibility when I first heard about self-driving cars. There are many attack vectors when it comes to a threat actor attempting this hack. The security on the cars system would have to be out of this world, because everything has a vulnerability. Its only a matter of time before we will see self-driving cars everywhere.
